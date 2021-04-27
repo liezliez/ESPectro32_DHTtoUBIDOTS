@@ -9,3 +9,5 @@ Pin Layout
 
 # Sensor used in this Project
 ![DHT11_Sensor_Temperature_And_Relative_Humidity_Sensor_Module](https://user-images.githubusercontent.com/42132479/115755461-92b3ac00-a3c7-11eb-9f9d-8c3688c277bf.jpg)
+
+courtesy to makestro and DycodeX https://github.com/dycodex
